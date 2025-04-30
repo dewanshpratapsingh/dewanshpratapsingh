@@ -3,7 +3,6 @@
 <p align="center" style="color:green;">
   <strong>Full Stack Engineer | DSA Enthusiast | Cloud-Native Developer</strong>  
   <br/>
-  <em>On a mission to be among the top 1% engineers</em>
 </p>
 
 ---
