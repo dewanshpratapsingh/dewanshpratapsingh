@@ -1,74 +1,36 @@
-<h1 align="center">✨ Dewansh Pratap Singh</h1>
-<p align="center">
-  <strong>Software Engineer | Cloud-Native Developer | DSA Enthusiast</strong><br/>
-  <em>Turning code into elegant, scalable systems.</em>
-</p>
+# 👋 Hi there, I'm Dewansh Pratap Singh
+
+🚀 I'm a passionate software developer on a mission to be in the top 1% of engineers.  
+🧠 I love solving challenging DSA problems and building scalable full-stack systems.
 
 ---
 
-## 🧠 About Me
+### 📊 GitHub Stats
 
-```java
-const dewan = {
-  code: ["Java", "Python", "JavaScript"],
-  focus: "Backend Engineering",
-  interests: ["Distributed Systems", "Cloud", "DSA", "System Design"],
-  goals: "Top 1% engineer globally",
-  currentStack: "Spring Boot | React | AWS | Docker | MongoDB"
-}
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dewanshpratapsingh&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dewanshpratapsingh&layout=compact&theme=tokyonight)
 
 ---
 
-## 🛠 Tech Stack
+### 🔥 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-EDC7B7?style=for-the-badge&logo=java&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/Spring_Boot-CDB4DB?style=for-the-badge&logo=spring&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/JavaScript-FFCDB2?style=for-the-badge&logo=javascript&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/Python-B5EAD7?style=for-the-badge&logo=python&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/React-F8EDEB?style=for-the-badge&logo=react&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/Express-F6EAC2?style=for-the-badge&logo=express&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/Django-E2F0CB?style=for-the-badge&logo=django&logoColor=4A4E69" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-FFDAC1?style=for-the-badge&logo=mysql&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/PostgreSQL-D8E2DC?style=for-the-badge&logo=postgresql&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/MongoDB-CDEAC0?style=for-the-badge&logo=mongodb&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/Redis-EAC4D5?style=for-the-badge&logo=redis&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/AWS-FFD6E0?style=for-the-badge&logo=amazon-aws&logoColor=4A4E69" />
-  <img src="https://img.shields.io/badge/Docker-D4E09B?style=for-the-badge&logo=docker&logoColor=4A4E69" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dewanshpratapsingh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewanshpratapsingh&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4A4E69&text_color=4A4E69&icon_color=B5838D" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewanshpratapsingh&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4A4E69&text_color=4A4E69" />
-</p>
+<img src="https://raw.githubusercontent.com/dewanshpratapsingh/dewanshpratapsingh/main/github-metrics.svg" alt="Metrics" width="100%" />
 
 ---
 
-## 🌱 Current Goals
+### 🛡️ Badges
 
-- Build a visually aesthetic frontend dashboard (React + Tailwind)
-- Master System Design and Low-Level Design
-- Scale microservices using Kafka and Redis
-- Deploy full-stack apps with CI/CD via Drone + Kubernetes
+![Followers](https://img.shields.io/github/followers/dewanshpratapsingh?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/dewanshpratapsingh?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/dewanshpratapsingh)
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://dewanshpratapsingh.in">
-    <img src="https://img.shields.io/badge/Portfolio-dewanshpratapsingh.in-4A4E69?style=flat-square&logo=firefox-browser&logoColor=E0BBE4" />
-  </a>
-  <a href="https://linkedin.com/in/dewanshpratapsingh">
-    <img src="https://img.shields.io/badge/LinkedIn-Dewansh%20Pratap%20Singh-4A4E69?style=flat-square&logo=linkedin&logoColor=E0BBE4" />
-  </a>
-</p>
+🧠 Always learning | 💡 Always building | 🔥 Always pushing limits
