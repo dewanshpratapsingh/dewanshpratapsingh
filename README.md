@@ -21,7 +21,7 @@
 
 ### 📈 GitHub Metrics
 
-<img src="https://raw.githubusercontent.com/dewanshpratapsingh/dewanshpratapsingh/main/github-metrics.svg" alt="Metrics" width="100%" />
+<img src="https://raw.githubusercontent.com/dewanshpratapsingh/main/github-metrics.svg" alt="Metrics" width="100%" />
 
 ---
 
