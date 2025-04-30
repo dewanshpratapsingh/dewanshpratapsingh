@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Dewansh Pratap Singh
 
-🚀 I'm a passionate software developer on a mission to be in the top 1% of engineers.  
-🧠 I love solving challenging DSA problems and building scalable full-stack systems.
+🚀 I'm a passionate software developer.  
+🧠 I love solving challenging computational problems and building scalable full-stack systems.
 
 ---
 
