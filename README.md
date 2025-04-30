@@ -19,12 +19,6 @@
 
 ---
 
-### 📈 GitHub Metrics
-
-<img src="https://raw.githubusercontent.com/dewanshpratapsingh/main/github-metrics.svg" alt="Metrics" width="100%" />
-
----
-
 ### 🛡️ Badges
 
 ![Followers](https://img.shields.io/github/followers/dewanshpratapsingh?label=Follow&style=social)
