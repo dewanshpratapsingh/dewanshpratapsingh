@@ -9,7 +9,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewanshpratapsingh&show_icons=true&theme=tokyonight" height="250" width ="410"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dewanshpratapsingh&show_icons=true&theme=tokyonight" height="250" width ="430"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewanshpratapsingh&layout=compact&theme=tokyonight" height="180" width ="400" />
 </p>
 
